@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.ANDREY,th{
+  
+border: solid black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  height: 1px;
+}
+.lista{
+  width: 200px;
+border: solid red;
+
+}
+
+.foto{
+width: 500px;
+}
+
+
+.animal{
+
+  font-size: 100%;
+}
